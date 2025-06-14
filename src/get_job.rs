@@ -10,7 +10,7 @@ pub struct Body {
     pub last_found: u64,
 }
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct Job {
     pub seed: String,
     pub diff: BigUint,
