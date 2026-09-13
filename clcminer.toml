@@ -1,3 +1,3 @@
-server = "http://read.centrix.fi"
+server = "https://clc.ix.tc"
 rewards_dir = "rewards"
 thread = -1 
